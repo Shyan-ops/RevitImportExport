@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+    <AddIn Type="Command">
+        <Name>ExportParams</Name>
+        <FullClassName>ExcelLink.ExportParams</FullClassName>
+        <Assembly>C:\Users\shyan.chien\source\repos\ExcelLink\ExcelLink\bin\Debug\ExcelLink.dll</Assembly>
+        <AddInId>415F0DC9-F7F2-42CF-BCB0-2A744EA01493</AddInId>
+        <VendorId>ADNP</VendorId>
+        <VendorDescription>Autodesk, Inc. www.autodesk.com</VendorDescription>
+    </AddIn>
+    
+    <AddIn Type="Command">
+        <Name>ImportParams</Name>
+        <FullClassName>ExcelLink.ImportParams</FullClassName>
+        <Assembly>C:\Users\shyan.chien\source\repos\ExcelLink\ExcelLink\bin\Debug\ExcelLink.dll</Assembly>
+        <AddInId>227B8F73-527D-48A6-82C5-87A8A91CE0C3</AddInId>
+        <VendorId>ADNP</VendorId>
+        <VendorDescription>Autodesk, Inc. www.autodesk.com</VendorDescription>
+    </AddIn>
+
+</RevitAddIns>

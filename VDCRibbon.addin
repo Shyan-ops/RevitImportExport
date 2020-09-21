@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+    <AddIn Type="Application">
+        <Name>Ribbon</Name>
+        <FullClassName>VDCRibbon.UIRibbon</FullClassName>
+        <Assembly>C:\Users\shyan.chien\source\repos\VDCRibbon\VDCRibbon\bin\Debug\VDCRibbon.dll</Assembly>
+        <AddInId>D99F7861-84FE-44D1-963D-E727AF305A84</AddInId>
+        <VendorId>ADNP</VendorId>
+        <VendorDescription>Autodesk, Inc. www.autodesk.com</VendorDescription>
+    </AddIn>
+
+</RevitAddIns>
